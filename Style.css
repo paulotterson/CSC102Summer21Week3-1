@@ -1,0 +1,12 @@
+body {
+    background-image: linear-gradient(90deg, rgb(12, 202, 12), rgb(0, 0, 192));
+}
+
+.button{
+    width: 100px;
+    height: 30px;
+    background-color: white;
+
+border-radius: 12px;
+border-color: green;
+}
